@@ -1,0 +1,52 @@
+body {
+    font-family: fantasy;
+    letter-spacing: 3px;
+    background-color: #69bfe7;
+    text-align: center;
+    padding: 20px;
+}
+.contenedor{
+    background-color: #c4c111;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    width: 300px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+img{
+    
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 20px auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.operacion {
+    background-color: #42cf00b6;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    width: 300px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+input {
+    padding: 10px;
+    width: 120px;
+    margin: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+p {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+}
